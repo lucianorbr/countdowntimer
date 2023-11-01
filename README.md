@@ -1,6 +1,7 @@
 # Página de Contagem Regressiva
 
-Este é um projeto de página web de contagem regressiva que exibe o tempo restante até o lançamento de algo especial. O projeto contém um contador de dias, horas, minutos e segundos, juntamente com um formulário de inscrição.
+Este é um projeto de página web de contagem regressiva que exibe o tempo restante até o lançamento de algo especial. O projeto contém um contador de dias, horas, minutos e segundos, juntamente com um formulário de inscrição. Para o formulário integrei um projeto meu para o usuário seja redirecionado para 
+a página do projeto.
 
 ## Pré-requisitos
 
